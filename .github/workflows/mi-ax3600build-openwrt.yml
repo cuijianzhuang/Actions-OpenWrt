@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt
+name: Mi_AX3600Build OpenWrt
 
 on:
   repository_dispatch:
